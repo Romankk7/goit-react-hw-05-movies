@@ -1,0 +1,31 @@
+.wrap {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+  }
+  
+  .title {
+    font-size: 35px;
+    color: gray;
+  }
+  
+  .movie_input {
+    margin-right: 15px;
+    width: 200px;
+  }
+  
+  .btn {
+    background-color: rgb(142, 228, 142);
+  }
+  
+  .list_item {
+    margin-left: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .movie_link {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }

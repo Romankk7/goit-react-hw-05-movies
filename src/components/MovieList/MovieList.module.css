@@ -1,0 +1,10 @@
+.movie_list {
+    margin-left: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .movie_link {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }

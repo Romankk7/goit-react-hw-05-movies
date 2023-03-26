@@ -1,0 +1,27 @@
+h1 {
+    margin: 0;
+  }
+  
+  .img {
+    width: 300px;
+  }
+  
+  .container {
+    padding: 15px;
+  }
+  
+  .btn {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin: 15px 15px;
+  }
+  
+  .info_wrap {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .description {
+    font-weight: bold;
+  }
